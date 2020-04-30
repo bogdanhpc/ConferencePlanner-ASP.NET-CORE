@@ -1,0 +1,9 @@
+E:\Admin\dev\csharpfritz\workshop\ConferencePlanner\ConferenceDTO\bin\Release\netstandard2.0\ConferenceDTO.deps.json
+E:\Admin\dev\csharpfritz\workshop\ConferencePlanner\ConferenceDTO\bin\Release\netstandard2.0\ConferenceDTO.dll
+E:\Admin\dev\csharpfritz\workshop\ConferencePlanner\ConferenceDTO\bin\Release\netstandard2.0\ConferenceDTO.pdb
+E:\Admin\dev\csharpfritz\workshop\ConferencePlanner\ConferenceDTO\obj\Release\netstandard2.0\ConferenceDTO.csprojAssemblyReference.cache
+E:\Admin\dev\csharpfritz\workshop\ConferencePlanner\ConferenceDTO\obj\Release\netstandard2.0\ConferenceDTO.csproj.CoreCompileInputs.cache
+E:\Admin\dev\csharpfritz\workshop\ConferencePlanner\ConferenceDTO\obj\Release\netstandard2.0\ConferenceDTO.AssemblyInfoInputs.cache
+E:\Admin\dev\csharpfritz\workshop\ConferencePlanner\ConferenceDTO\obj\Release\netstandard2.0\ConferenceDTO.AssemblyInfo.cs
+E:\Admin\dev\csharpfritz\workshop\ConferencePlanner\ConferenceDTO\obj\Release\netstandard2.0\ConferenceDTO.dll
+E:\Admin\dev\csharpfritz\workshop\ConferencePlanner\ConferenceDTO\obj\Release\netstandard2.0\ConferenceDTO.pdb

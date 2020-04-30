@@ -1,0 +1,28 @@
+﻿@page
+@model FrontEnd.Pages.SpeakersModel
+@{
+    ViewData["Title"] = "Speakers";
+}
+
+<h3>Speakers</h3>
+<div class="row">
+    <div class="col-md-5">
+        <ul class="list-group">
+            @foreach (var speaker in Model.Speakers)
+            {
+            <li class="list-group-item">
+                <a asp-page="Speaker" asp-route-id="@speaker.Id">@speaker.Name</a>
+                <a href="@speaker.WebSite">@speaker.WebSite</a>
+            </li>
+                <form method="post">
+                    <input type="hidden" name="speakerId" value="@speaker.Id" />
+                    <p>
+                        <a authz-policy="Admin" asp-page="/Admin/EditSpeaker" asp-route-id="@speaker.Id" class="btn btn-default btn-sm">Edit</a>
+                    </p>
+                </form>
+
+            }
+        </ul>
+    </div>
+</div>
+
